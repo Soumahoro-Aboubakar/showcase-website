@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "constants",
+			"path": "../../../virtualr-main/src/constants"
+		},
+		{
+			"name": "site_vitrine",
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
